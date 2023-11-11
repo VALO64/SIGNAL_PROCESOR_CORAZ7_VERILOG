@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri Nov 10 18:39:35 2023
+# Process ID: 15712
+# Current directory: D:/Oscar/TEC/Octavo_Semestre/FPGA/Unidad 2/P7_RECONSTRUCCION_DE_UNA_SENAL/PRACTICA_7_T_FINAL
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent1524 D:\Oscar\TEC\Octavo_Semestre\FPGA\Unidad 2\P7_RECONSTRUCCION_DE_UNA_SENAL\PRACTICA_7_T_FINAL\PRACTICA_7_T_FINAL.xpr
+# Log file: D:/Oscar/TEC/Octavo_Semestre/FPGA/Unidad 2/P7_RECONSTRUCCION_DE_UNA_SENAL/PRACTICA_7_T_FINAL/vivado.log
+# Journal file: D:/Oscar/TEC/Octavo_Semestre/FPGA/Unidad 2/P7_RECONSTRUCCION_DE_UNA_SENAL/PRACTICA_7_T_FINAL\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/Oscar/TEC/Octavo_Semestre/FPGA/Unidad 2/P7_RECONSTRUCCION_DE_UNA_SENAL/PRACTICA_7_T_FINAL/PRACTICA_7_T_FINAL.xpr}
+update_compile_order -fileset sources_1
